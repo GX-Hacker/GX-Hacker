@@ -7,6 +7,6 @@
 - :palm_tree: [Join my Discord server](https://dsc.gg/code-and-stuff) for support and chilling!
 - :left_speech_bubble: My main pronouns are they/them but I don't mind he/she (whatever)
 
-### Projects
+## GXH Projects
 
 Check pinned repositories! I suggest you to start by the [Home](https://github.com/gx-hacker/home) repository before anything else.
