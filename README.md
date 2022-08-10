@@ -4,7 +4,7 @@
 - :sparkles: I am a very unique original hacker (not true, am just da GX gamer)
 - :computer: I know some coding languages: mostly HTML/CSS, and a bit of JS/Python
 - :art: I have an archive of [Discord themes](https://github.com/gx-hacker/discord-themes) and [browser styles](https://github.com/gx-hacker/browser-styles) from [GXH Projects](https://github.com/gh-hacker/home).
-- :left_speech_bubble: My main pronouns are they/them but I don't mind he/she/any but whatever, this is gender 5hit and I don't understand why there are 500 pronouns for 1 species: humans. And what makes it more senseless is that it's only for 3rd person use.
+- :left_speech_bubble: My main pronouns are they/them but I don't mind he/she/any but whatever... this is gender 5hit and I don't understand why there are 500 pronouns for 1 species: humans. And what makes it more senseless is that it's only for 3rd person use.
 
 ## GXH Projects Archive
 
