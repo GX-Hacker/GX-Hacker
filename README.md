@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- :warning: **I now work on something completely different! I'm no longer maintaining the hosted projects, but they're still available as an archive. Feel free to use and modify!** (any archived licenses or info may no longer be valuable)
+- :warning: **I now work on something completely different! I'm no longer maintaining the hosted projects, but they're still available as an archive. Feel free to use and modify!** (any archived info may no longer be valuable)
 - :sparkles: I am a very unique original hacker (not true, am just da GX gamer)
 - :computer: I know some coding languages: mostly HTML/CSS, and a bit of JS/Python
 - :art: I have an archive of [Discord themes](https://github.com/gx-hacker/discord-themes) and [browser styles](https://github.com/gx-hacker/browser-styles) from [GXH Projects](https://github.com/gh-hacker/home).
